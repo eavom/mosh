@@ -2,10 +2,8 @@
 
 Windows Command Prompt can be a bit dull, so why not give it a fresh look? **moSh** is a simple, fun project that enhances your command-line experience with colors and a cleaner interface—just plug and play! 🎨
 
-<video autoplay loop muted playsinline>
-  <source src="asset/mosh-look.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Mosh Look](asset/mosh.gif)
+
 
 ## Wanna try?
 
